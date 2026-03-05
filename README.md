@@ -1,4 +1,4 @@
-# 🏛️ National Library Management System (Enterprise Edition)
+# 🏛️ National Library Management System (Pakistan Library System (PLS))
 
 A high-performance, modular C++ application designed for large-scale library administration. This project demonstrates **Professional Software Architecture**, **Clean Code Principles**, and a **Sophisticated Terminal User Interface (TUI)**.
 
