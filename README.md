@@ -18,6 +18,23 @@ This system is built for high-traffic environments where data integrity and user
 
 To maintain "Enterprise" standards, the project follows a strict directory structure:
 
+##🛠️ Technical Stack
+**Language:** C++17
+
+**Compiler:** GCC / G++ (MinGW)
+
+**Standard Library (STL):** 
+- std::vector (Dynamic Memory Management)
+-std::algorithm (Optimized Searching/Filtering)
+-std::iomanip (Data Formatting)
+-std::thread & std::chrono (Simulated Synchronization)
+-Interface: ANSI Escape Codes (16-bit Color)
+
+
+**Developed by:** **#Syed Saad Bin Irfan**
+**Status:** Version 1.0 (Production Ready)
+**License:** MIT
+
 ```text
 Pakistan_Library_System_PLS_CPP/
 ├── include/            # [Blueprints & Definitions]
