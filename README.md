@@ -2,10 +2,10 @@
 
 A high-performance, modular C++ application designed for large-scale library administration. This project demonstrates **Professional Software Architecture**, **Clean Code Principles**, and a **Sophisticated Terminal User Interface (TUI)**.
 
-## 🌟 Overview
+## Overview
 This system is built for high-traffic environments where data integrity and user experience are paramount. It moves away from "basic scripting" and utilizes a **Separation of Concerns** model, dividing the application into distinct Blueprints (`include/`) and Engines (`src/`).
 
-## 🚀 Key Features
+## Key Features
 - **Inventory Management:** Full CRUD (Create, Read, Update, Delete) capabilities for library assets.  
 - **Student Portal Logic:** Secure borrowing and returning protocols with real-time status tracking.  
 - **Financial Module:** Automated query system for student financial records and late fees.  
@@ -29,7 +29,7 @@ Pakistan_Library_System_PLS_CPP/
 ├── main.cpp              # Entry Point & Application Router
 └── README.md             # Documentation
 ```
-##📌 Project Info
+📌 Project Info
 
 Developed by: Syed Saad Bin Irfan
 
