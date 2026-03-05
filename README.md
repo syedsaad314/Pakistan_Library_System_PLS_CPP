@@ -19,7 +19,7 @@ This system is built for high-traffic environments where data integrity and user
 To maintain "Enterprise" standards, the project follows a strict directory structure:
 
 ```text
-National_Library_System_CPP/
+Pakistan_Library_System_PLS_CPP/
 ├── include/            # [Blueprints & Definitions]
 │   ├── Book.h          # Data structure for Library Assets
 │   ├── User.h          # Data structure for Student Profiles
