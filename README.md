@@ -29,10 +29,10 @@ Pakistan_Library_System_PLS_CPP/
 ├── main.cpp              # Entry Point & Application Router
 └── README.md             # Documentation
 ```
-📌 Project Info
+**📌 Project Info**
 
-Developed by: Syed Saad Bin Irfan
+Developed by: **Syed Saad Bin Irfan**
 
-Status: Version 1.0 (Production Ready)
+Status: Version v1.0 
 
-License: MIT — A permissive open-source license allowing use, modification, distribution, and commercial use with proper attribution. No liability is assumed by the author.
+License: MIT
